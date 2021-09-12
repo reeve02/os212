@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/reeve02/os212/)
+[HOME](https://github.com/reeve02) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/reeve02/os212/)
 
 # Operating Systems 2021-2 (Odd Semester 2021/2022).
 
