@@ -10,4 +10,5 @@ Personally, i think it is a good video that made me learn about git&github in ge
 I think it can be helpful for those who is searching for more awk, bash, or sed usage example.
 ## Week 02
 [Is GPG Still Useful In Today’s Insecure World?](https://www.liquidweb.com/kb/is-gpg-still-useful-in-todays-insecure-world/) is about GPG in general and its relevance in this modern era. I think it can be helpful for those who want to understand more about GPG and security.
+
 [C Language CheatSheet](https://www.codewithharry.com/blogpost/c-cheatsheet) is a cheatsheet of syntax in c language. I think it can be helpful for learning C language and for the quiz.
