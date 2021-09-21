@@ -17,4 +17,4 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 
 [Linux FHS Guidelines](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf) is a guideline from linux for using FHS, it contains all the explanation for FHS just like documentation in python. I think it can be helpful if you want to learn FHS thoroughly, or you can just refer to the cheatsheet in the first link.
 
-[Linux Tutorials | Linux Directory Structure](https://www.youtube.com/watch?v=yWiUPWHljWg) is a video about FHS and linux directory structures. I think it can be helpful to help you understand more about linux FHS and linux directory structures in general.
+[Linux Tutorials, Linux Directory Structure](https://www.youtube.com/watch?v=yWiUPWHljWg) is a video about FHS and linux directory structures. I think it can be helpful to help you understand more about linux FHS and linux directory structures in general.
