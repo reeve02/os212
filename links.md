@@ -14,4 +14,5 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 [C Language CheatSheet](https://www.codewithharry.com/blogpost/c-cheatsheet) is a cheatsheet of syntax in c language. I think it can be helpful for learning C language and for the quiz.
 ## Week 03
 [Linux Tutorials | Linux Directory Structure](https://www.youtube.com/watch?v=yWiUPWHljWg) is a video about FHS and linux directory structures. I think it can be helpful to help you understand more about linux FHS and linux directory structures.
+
 [Linux FHS cheatsheet](https://cheatography.com/adam-hendry/cheat-sheets/linux-fhs/) is a cheatsheet for linux FHS. I think it can be helpful for learning FHS and for the quiz.
