@@ -13,7 +13,7 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 
 * [C Language CheatSheet](https://www.codewithharry.com/blogpost/c-cheatsheet) <br> A cheatsheet of syntax in c language. I think it can be helpful for learning C language and for the quiz.
 ## Week 03
-* [Linux FHS cheatsheet](https://cheatography.com/adam-hendry/cheat-sheets/linux-fhs/) <br> A cheatsheet for linux FHS. I think it can be helpful for learning FHS and for the quiz.
+* [Linux FHS Cheatsheet](https://cheatography.com/adam-hendry/cheat-sheets/linux-fhs/) <br> A cheatsheet for linux FHS. I think it can be helpful for learning FHS and for the quiz.
 
 * [Linux FHS Guidelines](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf) <br> A guideline from linux for using FHS, it contains all the explanation for FHS just like documentation in python. I think it can be helpful if you want to learn FHS thoroughly, or you can just refer to the cheatsheet in the first link.
 
