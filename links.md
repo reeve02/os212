@@ -18,3 +18,5 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 * [Linux FHS Guidelines](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf) <br> A guideline from linux for using FHS, it contains all the explanation for FHS just like documentation in python. I think it can be helpful if you want to learn FHS thoroughly, or you can just refer to the cheatsheet in the first link.
 
 * [Linux Tutorials, Linux Directory Structure](https://www.youtube.com/watch?v=yWiUPWHljWg) <br> A video about FHS and linux directory structures. I think it can be helpful to help you understand more about linux FHS and linux directory structures in general.
+
+* [Big Brother File System](https://gist.github.com/c4milo/1950644) <br> A GitHub repository of BBFS. I think it can be helpful for the quiz tomorrrow.
