@@ -20,3 +20,6 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 * [Linux Tutorials, Linux Directory Structure](https://www.youtube.com/watch?v=yWiUPWHljWg) <br> A video about FHS and linux directory structures. I think it can be helpful to help you understand more about linux FHS and linux directory structures in general.
 
 * [Big Brother File System](https://gist.github.com/c4milo/1950644) <br> A GitHub repository of BBFS. I think it can be helpful for the quiz tomorrrow.
+
+## Week 04
+* [C Pointer and Address](https://beginnersbook.com/2014/01/c-pointers/) <br> Tutorial for C pointer and addressing. I think it can be useful for the quiz.
