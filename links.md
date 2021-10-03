@@ -23,3 +23,5 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 
 ## Week 04
 * [C Pointer and Address](https://beginnersbook.com/2014/01/c-pointers/) <br> Tutorial for C pointer and addressing. I think it can be useful for the quiz.
+
+* [More about C Pointer](https://www.guru99.com/c-pointers.html) <br> More tutorial for understanding C pointer and how it works. I think it can be useful to learn more about how pointer works in C.
