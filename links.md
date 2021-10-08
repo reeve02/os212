@@ -25,3 +25,6 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 * [C Pointer and Address](https://beginnersbook.com/2014/01/c-pointers/) <br> Tutorial for C pointer and addressing. I think it can be useful for the quiz.
 
 * [More about C Pointer](https://www.guru99.com/c-pointers.html) <br> More tutorial for understanding C pointer and how it works. I think it can be useful to learn more about how pointer works in C.
+
+## Week 05
+* [Virtual Memory Allocation And Paging](https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.3/html_chapter/libc_3.html) <br> The GNU C Library about virtual memory allocation and paging. I think it can be useful to learn about virtual memory.
