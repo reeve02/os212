@@ -28,3 +28,7 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 
 ## Week 05
 * [Virtual Memory Allocation And Paging](https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.3/html_chapter/libc_3.html) <br> The GNU C Library about virtual memory allocation and paging. I think it can be useful to learn about virtual memory.
+
+* [Virtual Memory I](https://courses.cs.washington.edu/courses/cse410/17wi/lectures/CSE410-L22-vm-I_17wi_ink.pdf) <br> A lecture from University of Washington about virtual memory. I think it can be useful if you want to unsderstand more about virtual memory.
+
+* [Virtual Memory III](https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=onur-447-spring13-lecture18-virtual-memory-iii-afterlecture.pdf) <br> A lecture from Carnegie Mellon University about paging and page table in operating system. I think it can be useful for the quiz.
