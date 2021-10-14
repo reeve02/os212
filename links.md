@@ -32,3 +32,6 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 * [Virtual Memory I](https://courses.cs.washington.edu/courses/cse410/17wi/lectures/CSE410-L22-vm-I_17wi_ink.pdf) <br> A lecture from University of Washington about virtual memory. I think it can be useful if you want to unsderstand more about virtual memory.
 
 * [Virtual Memory III](https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=onur-447-spring13-lecture18-virtual-memory-iii-afterlecture.pdf) <br> A lecture from Carnegie Mellon University about paging and page table in operating system. I think it can be useful for the quiz.
+
+## Week 06
+* [Thread & Concurrency Cheatsheet](https://github.com/okeeffed/cheat-sheets/blob/master/COMP3520-OS/3-Threads.md) <br> A cheatsheet for Thread in operating system. I think it can be helpful for the quiz.
