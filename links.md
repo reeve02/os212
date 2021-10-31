@@ -37,3 +37,5 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 * [Threads  Cheatsheet](https://github.com/okeeffed/cheat-sheets/blob/master/COMP3520-OS/3-Threads.md) <br> A cheatsheet for Thread in operating system. I think it can be helpful for the quiz.
 
 * [Thread & Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) <br> The link is about threads and concurrency in general. I think it can be helpful for those who want to understand more about thread and concurrency.
+
+* [Fork System Call](https://www.geeksforgeeks.org/fork-system-call/) <br> The link is about fork call in C Language. I think it can be helpful for the quiz tomorrow.
