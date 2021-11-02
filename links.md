@@ -39,3 +39,6 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 * [Thread & Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) <br> The link is about threads and concurrency in general. I think it can be helpful for those who want to understand more about thread and concurrency.
 
 * [Fork System Call](https://www.geeksforgeeks.org/fork-system-call/) <br> The link is about fork call in C Language. I think it can be helpful for the quiz tomorrow.
+
+## Week 07
+* [Virtual Memory and Distributed Systems](http://web.cs.ucla.edu/classes/winter12/cs111/scribe/15e/) <br> A lecturefrom UCLA for Virtual Memory and Distributed Systems. I think it can help you understand the previous midterm problems.
