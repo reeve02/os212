@@ -41,4 +41,4 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 * [Fork System Call](https://www.geeksforgeeks.org/fork-system-call/) <br> The link is about fork call in C Language. I think it can be helpful for the quiz tomorrow.
 
 ## Week 07
-* [Virtual Memory and Distributed Systems](http://web.cs.ucla.edu/classes/winter12/cs111/scribe/15e/) <br> A lecturefrom UCLA for Virtual Memory and Distributed Systems. I think it can help you understand the previous midterm problems.
+* [Virtual Memory and Distributed Systems](http://web.cs.ucla.edu/classes/winter12/cs111/scribe/15e/) <br> A lecture from UCLA for Virtual Memory and Distributed Systems. I think it can help you understand the previous midterm problems.
