@@ -42,3 +42,5 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 
 ## Week 07
 * [Virtual Memory and Distributed Systems](http://web.cs.ucla.edu/classes/winter12/cs111/scribe/15e/) <br> A lecture from UCLA for Virtual Memory and Distributed Systems. I think it can help you understand the previous midterm problems.
+
+* [OS Deadlock, Starvation, and Livelock](https://www.geeksforgeeks.org/deadlock-starvation-and-livelock/) <br> The link is about deadlock, starvation and livelock. I think it can help you to understand more about deadlock and starvation in general.
