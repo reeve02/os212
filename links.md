@@ -47,3 +47,5 @@ I think it can be helpful for those who is searching for more awk, bash, or sed 
 
 ## Week 08
 * [Process Scheduling Cheatsheet](https://cheatography.com/mitali/cheat-sheets/1-process-scheduling/) <br> A cheatsheet for process scheduling. I think it can be helpful for the quiz and i think it can help you understand more about scheduling in general.
+
+* [Process Scheduling Neso Academy](https://www.youtube.com/watch?v=2h3eWaPx8SA) <br> Video explanation about process scheduling in general. I think it can help you to understand more about Scheduling.
